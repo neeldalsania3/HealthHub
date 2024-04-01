@@ -2,7 +2,7 @@ import NAVBAR from "./Navbar";
 import SIDEBAR from "./Sidebar";
 import LINKS from "./links";
 import {useState, useEffect} from "react";
-import {useParams,Link} from 'react-router-dom';
+import {useParams} from 'react-router-dom';
 import axios from 'axios';
 import { useNavigate } from 'react-router-dom'
 
